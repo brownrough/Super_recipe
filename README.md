@@ -1,2 +1,2 @@
 # Super_recipe
-Recipe platform
+Recipe platform. this project implements trials before main bootcamp
